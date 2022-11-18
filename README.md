@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Tanono. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -28,8 +28,8 @@
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/mr.oomn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios/50/null/instagram-new--v1.png" width="50" /></a>  
-&nbsp; <a href="https://open.spotify.com/user/31dwa26ogq35dkj4dx35dvahhhwe?si=9b829a0fef724a9f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/null/spotify.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://open.spotify.com/user/31dwa26ogq35dkj4dx35dvahhhwe?si=9b829a0fef724a9f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/null/spotify.png" width="50" /></a>
+&nbsp; <a href="tanonmarvel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
