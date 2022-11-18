@@ -18,7 +18,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.instagram.com/mr.oomn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/null/instagram-new--v2.png" width="50" /></a>  
 &nbsp; <a href="https://open.spotify.com/user/31dwa26ogq35dkj4dx35dvahhhwe?si=9b829a0fef724a9f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/null/spotify.png" width="50" /></a>
 &nbsp; <a href="tanonmarvel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/null/gmail.png"  width="50" /></a>
