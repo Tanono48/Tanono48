@@ -28,7 +28,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/mr.oomn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="[https://www.linkedin.com/in/souvik-guria-/](https://open.spotify.com/user/31dwa26ogq35dkj4dx35dvahhhwe?si=9b829a0fef724a9f)" target="_blank" rel="noopener noreferrer"><img src="[https://img.icons8.com/plasticine/100/000000/linkedin.png](https://img.icons8.com/color/48/null/spotify--v1.png)" width="50" /></a>
+&nbsp; <a href="https://open.spotify.com/user/31dwa26ogq35dkj4dx35dvahhhwe?si=9b829a0fef724a9f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/null/spotify--v1.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
