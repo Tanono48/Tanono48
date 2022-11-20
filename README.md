@@ -34,11 +34,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Pygame | PyCharm | Visual Studio code | Opencv | Yolov5
-- 🖥 &nbsp; Illustrator | Photoshop 
+ </kbd>
 
 [![Tanono48's github stats](https://github-readme-stats.vercel.app/api?username=Tanono48&show_icons=true&theme=merko)](https://github.com/Tanono48/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanono48&layout=compact&theme=merko)](https://github.com/Tanono48/github-readme-stats)
