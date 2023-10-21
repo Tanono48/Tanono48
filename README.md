@@ -3,9 +3,9 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🏫 &nbsp; I'm a grade 12, High School Student.😅
-- 🤔 &nbsp; Interested in program development.📊📈🤖🧠
-- 🔭 &nbsp; I'm interested in Cyber Security , Data Analysis , Machine Learning algorithms , Development Website.🧠💻🤖
+- 🏫 &nbsp; I'm a bachelor degree , KMITL Student.😅
+- 🤔 &nbsp; Interested in program development but Now interested in computer network.📊📈🤖🧠
+- 🔭 &nbsp; I'm interested in Cyber Security , Data Science , Development Website.🧠💻🤖
 - ⚡ &nbsp; Fun fact: I play Basketball, Batminton and the Piano! ⚽🎾🎹
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
