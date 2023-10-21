@@ -26,8 +26,4 @@
 &nbsp; <a href="tanonmarvel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/null/gmail.png"  width="50" /></a>
 </p>
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
-
 ⭐️ From [SleepwithCode](https://github.com/Tanono48)
